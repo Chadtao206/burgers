@@ -4,3 +4,4 @@ INSERT INTO burgers (burger_name, devoured) VALUES ('Big Western Star Burger', f
 INSERT INTO burgers (burger_name, devoured) VALUES ('Philly Cheese Steak Burger', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Crispy Chicken Garden Burger', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Veggie Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Grilled Onion Peanut Butter Chocolate Chili Burger', false);
